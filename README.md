@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-<img width="800" alt="portfolio_view" src="https://i.imgur.com/C52HKFp.png">
+<img width="320" alt="portfolio_view" src="https://i.imgur.com/C52HKFp.png">
 
 ## Getting Started
 
